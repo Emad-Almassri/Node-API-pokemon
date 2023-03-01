@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "axios": "^1.3.4",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "node": "^19.6.1",
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "node-api-pokemon",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emad-Almassri/Node-API-pokemon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emad-Almassri/Node-API-pokemon/issues"
+  },
+  "homepage": "https://github.com/Emad-Almassri/Node-API-pokemon#readme",
+  "description": ""
+}

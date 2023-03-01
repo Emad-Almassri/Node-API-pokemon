@@ -1,0 +1,9 @@
+<h1>Random pokemons</h1>
+<table>
+    <% for(var i=0; i<pokemons.length; i++) {%>
+        <tr>
+            <td><%= pokemons[i].name %></td>
+            <td><%= pokemons[i].order %></td>
+        </tr>
+    <% } %>
+</table>
